@@ -1,0 +1,62 @@
+<books>
+<book>
+ <isbn>1</isbn>
+ <name>어린왕자</name>
+ <publisher>꿈나무</publisher>
+ <page>150</page>
+ <borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+ <isBorrowed>0</isBorrowed>
+ <userId>0</userId>
+ <userName></userName>
+</book>
+<book>
+ <isbn>2</isbn>
+ <name>누가 내 치즈를 가져갔을까?</name>
+ <publisher>진명출판사</publisher>
+ <page>128</page>
+ <borrowedAt>2019년 11월 27일 수요일</borrowedAt>
+ <isBorrowed>1</isBorrowed>
+ <userId>3</userId>
+ <userName>오은진</userName>
+</book>
+<book>
+ <isbn>3</isbn>
+ <name>빨강 머리 앤</name>
+ <publisher>더모던</publisher>
+ <page>532</page>
+ <borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+ <isBorrowed>0</isBorrowed>
+ <userId>0</userId>
+ <userName></userName>
+</book>
+<book>
+ <isbn>4</isbn>
+ <name>해리포터와 마법사의 돌</name>
+ <publisher>문학수첩</publisher>
+ <page>248</page>
+ <borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+ <isBorrowed>0</isBorrowed>
+ <userId>0</userId>
+ <userName></userName>
+</book>
+<book>
+ <isbn>5</isbn>
+ <name>연금술사</name>
+ <publisher>문학동네</publisher>
+ <page>278</page>
+ <borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+ <isBorrowed>0</isBorrowed>
+ <userId>0</userId>
+ <userName></userName>
+</book>
+<book>
+ <isbn>6</isbn>
+ <name>모모</name>
+ <publisher>비룡소</publisher>
+ <page>367</page>
+ <borrowedAt>0001년 1월 1일 월요일</borrowedAt>
+ <isBorrowed>0</isBorrowed>
+ <userId>0</userId>
+ <userName></userName>
+</book>
+</books>

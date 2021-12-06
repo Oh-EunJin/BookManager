@@ -1,0 +1,48 @@
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\bin\Debug\BookManager.exe.config
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\bin\Debug\BookManager.exe
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\bin\Debug\BookManager.pdb
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.exe
+E:\3학년\2학기\C#\Program\도서관리프로그램\BookManager\BookManager\obj\Debug\BookManager.pdb
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.exe
+E:\C#\BookManager\BookManager\obj\Debug\BookManager.pdb
+E:\C#\BookManager\BookManager\bin\Debug\BookManager.exe.config
+E:\C#\BookManager\BookManager\bin\Debug\BookManager.exe
+E:\C#\BookManager\BookManager\bin\Debug\BookManager.pdb
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\bin\Debug\BookManager.exe
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\bin\Debug\BookManager.pdb
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.exe
+C:\Users\YUHAN\Desktop\A_5조_BookManager\BookManager\obj\Debug\BookManager.pdb
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\bin\Debug\BookManager.exe.config
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\bin\Debug\BookManager.exe
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\bin\Debug\BookManager.pdb
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.Form2.resources
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.Form3.resources
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.exe
+F:\3학년\2학기\C#\도서 관리 프로그램 과제\A_5조_BookManager\BookManager\obj\Debug\BookManager.pdb
